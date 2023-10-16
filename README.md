@@ -21,8 +21,8 @@ I'm Idris, a passionate developer, tech enthusiast, and lifelong learner. Welcom
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-[![trophy](https://github-profile-trophy.vercel.app/?idriselixir
-=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=idriselixir)](https://github.com/idriselixir)
+
 
 ## 📈 GitHub Stats
 
