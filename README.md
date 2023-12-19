@@ -15,4 +15,3 @@ I'm Idris, a passionate developer, tech enthusiast, and lifelong learner. Welcom
 📣 Let's Connect!
 •	[LinkedIn] https://www.linkedin.com/in/idris-noor
 •	[Twitter] https://twitter.com/NoorIdris14325
-
