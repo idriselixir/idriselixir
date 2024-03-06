@@ -11,6 +11,8 @@ I'm Idris, a passionate developer, tech enthusiast, and lifelong learner. Welcom
            
  
 📈 GitHub Stats
+
+[![wakatime](https://wakatime.com/badge/user/018ba604-9fac-4783-b03e-11b6a49050b8.svg)](https://wakatime.com/@018ba604-9fac-4783-b03e-11b6a49050b8)
  
 📣 Let's Connect!
 •	[LinkedIn] https://www.linkedin.com/in/idris-noor
