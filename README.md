@@ -40,11 +40,11 @@
 ## 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=idriselixir&show_icons=true&theme=radical" alt="idriselixir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idriselixir&show_icons=true&theme=merko" alt="idriselixir's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=merko" alt="Most Used Languages" />
 </p>
 
 
