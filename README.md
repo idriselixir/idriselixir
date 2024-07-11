@@ -49,7 +49,7 @@
 
 ## 🔥 My GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idriselixir&theme=default" alt="idriselixir's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idriselixir&theme=radical" alt="idriselixir's GitHub Streak">
 </p>
 
 
