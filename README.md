@@ -16,7 +16,6 @@
 - ⚡ Fun fact: I love football so much that in my world, the year has only two seasons: football season and waiting-for-football-season! ⚽📅
 
 ## 🛠️ Technologies & Tools
-<!-- You can add icons here if you like, for example -->
 <p>
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -24,13 +23,30 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <!-- Ruby -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
   <!-- Next.js -->
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" width="40" height="40"/>
   <!-- Solidity -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
 </p>
 
-## 📈 GitHub Stats
+
+## 📈 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=idriselixir&show_icons=true&theme=radical" alt="idriselixir's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+
 [![wakatime](https://wakatime.com/badge/user/018ba604-9fac-4783-b03e-11b6a49050b8.svg)](https://wakatime.com/@018ba604-9fac-4783-b03e-11b6a49050b8)
 
 ## 📣 Let's Connect!
