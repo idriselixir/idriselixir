@@ -40,19 +40,25 @@
 ## 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=idriselixir&show_icons=true&theme=merko" alt="idriselixir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idriselixir&show_icons=true&theme=radical" alt="idriselixir's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=merko" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+## 🔥 My GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idriselixir&theme=default" alt="idriselixir's GitHub Streak">
 </p>
 
 
-[![wakatime](https://wakatime.com/badge/user/018ba604-9fac-4783-b03e-11b6a49050b8.svg)](https://wakatime.com/@018ba604-9fac-4783-b03e-11b6a49050b8)
+[![wakatime](https://wakatime.com/badge/user/018ba604-9fac-4783-b03e-11b6a49050b8.svg)](https://wakatime.com/@in106)
 
 ## 📣 Let's Connect!
 <p align="left">
   <!-- LinkedIn -->
+  
   <a href="https://www.linkedin.com/in/idris-noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn-Idris-Noor" height="30" width="40" /></a>
   <!-- Twitter -->
   <a href="https://twitter.com/NoorIdris14325" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter-NoorIdris14325" height="30" width="40" /></a>
