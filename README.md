@@ -49,10 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-<h2 align="center">🔥 My GitHub Streak</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=idriselixir&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 
 [![wakatime](https://wakatime.com/badge/user/018ba604-9fac-4783-b03e-11b6a49050b8.svg)](https://wakatime.com/@in106)
