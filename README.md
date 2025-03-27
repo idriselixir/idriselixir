@@ -43,9 +43,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
 <h2 align="center">🔥 My GitHub Streak</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.azurewebsites.net/?user=idriselixir&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=idriselixir&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 
