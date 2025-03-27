@@ -37,10 +37,11 @@
 </p>
 
 
-## 📈 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=idriselixir&show_icons=true&theme=radical" alt="idriselixir's GitHub Stats" />
+## 🔥 My GitHub Activity
+<p align="center">
+  <a href="https://skyline.github.com/idriselixir/2025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Skyline%202025-blue?style=for-the-badge&logo=github" alt="View My GitHub Skyline">
+  </a>
 </p>
 
 <p align="left">
