@@ -37,20 +37,17 @@
 </p>
 
 
-## 🔥 My GitHub Activity
-<p align="center">
-  <a href="https://skyline.github.com/idriselixir/2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Skyline%202025-blue?style=for-the-badge&logo=github" alt="View My GitHub Skyline">
-  </a>
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-## 🔥 My GitHub Streak
+## 🔥 My GitHub Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idriselixir&theme=radical" alt="idriselixir's GitHub Activity">
+  <a href="https://skyline.github.com/idriselixir/2025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Skyline%202025-blue?style=for-the-badge&logo=github" alt="View My GitHub Skyline">
+  </a>
 </p>
 
 
