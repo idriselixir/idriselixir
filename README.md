@@ -45,9 +45,7 @@
 
 <h2 align="center">🔥 My GitHub Streak</h2>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=idriselixir&theme=radical" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.azurewebsites.net/?user=idriselixir&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 
