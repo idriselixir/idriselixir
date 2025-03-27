@@ -43,12 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriselixir&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-## 🔥 My GitHub Activity
-<p align="center">
-  <a href="https://skyline.github.com/idriselixir/2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Skyline%202025-blue?style=for-the-badge&logo=github" alt="View My GitHub Skyline">
+<h2 align="center">🔥 My GitHub Streak</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=idriselixir&theme=radical" alt="GitHub Streak" />
   </a>
-</p>
+</div>
 
 
 [![wakatime](https://wakatime.com/badge/user/018ba604-9fac-4783-b03e-11b6a49050b8.svg)](https://wakatime.com/@in106)
